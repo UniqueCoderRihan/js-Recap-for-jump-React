@@ -7,4 +7,4 @@ const students =[{
 const keys = Object.keys(students[0]);
 const values = Object.values(students[0])
 console.log(keys);
-console.log(valueskeys-values.js);
+console.log(values);
